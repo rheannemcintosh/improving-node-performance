@@ -1,0 +1,23 @@
+{
+  "name": "improving-node-performance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rheannemcintosh@github.com/rheannemcintosh/improving-node-performance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rheannemcintosh/improving-node-performance/issues"
+  },
+  "homepage": "https://github.com/rheannemcintosh/improving-node-performance#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
